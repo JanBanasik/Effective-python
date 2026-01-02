@@ -1,4 +1,3 @@
-* text=auto eol=lf # Set default behavior to automatically normalize line endings.
-# same as git config --global core.autocrlf input
-# earlier I had git config --global core.autocrlf true
-# which caused issues on some files when switching between Windows and Linux
+# Set default behavior to automatically normalize line endings | same as git config --global core.autocrlf input earlier I had git config --global core.autocrlf true which caused issues on some files when switching between Windows and Linux
+
+* text=auto eol=lf 
