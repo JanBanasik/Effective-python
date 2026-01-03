@@ -1,0 +1,1 @@
+Używanie black do formatowania oraz stosowanie PEP8
